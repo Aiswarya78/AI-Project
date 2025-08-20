@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "20250807_151412_a96206b3",
+    "timestamp": "2025-08-07T15:14:12.407474",
+    "processing_date": "2025-08-07 15:14:12",
+    "source_filename": "batch1-1469.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Wang-Tran",
+        "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+        "vendor_phone": "904-86-4037",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "64713590",
+        "invoice_date": "03/02/2017",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Larson-Hill",
+        "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+        "customer_phone": "925-91-8832",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "$119,95",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$263,89"
+        },
+        {
+          "item_number": "2",
+          "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+          "hsn_sac_code": "N/A",
+          "quantity": "5,00",
+          "unit": "each",
+          "unit_price": "$157,30",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$865,15"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$1 026,40",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$102,64",
+        "round_off": "N/A",
+        "total_amount": "$1 129,04",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  },
+  {
+    "id": "20250808_113507_bd730218",
+    "timestamp": "2025-08-08T11:35:07.748436",
+    "processing_date": "2025-08-08 11:35:07",
+    "source_filename": "Pan Card - R Nandakishore.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "Pan Card - R Nandakishore.pdf",
+        "total_pages": 1,
+        "successful_pages": 0,
+        "failed_pages": 1,
+        "processing_date": "2025-08-08T11:35:07.723408"
+      },
+      "combined_data": {
+        "invoice_header": {},
+        "customer_details": {},
+        "line_items": [],
+        "financial_summary": {},
+        "payment_details": {},
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {}
+      },
+      "page_by_page_results": [
+        {
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "Pan Card - R Nandakishore.pdf",
+            "processing_failed": true
+          },
+          "error": "Page processing failed"
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 0,
+        "pages_with_line_items": 0,
+        "overall_quality": "low"
+      }
+    }
+  },
+  {
+    "id": "20250812_123023_760524e7",
+    "timestamp": "2025-08-12T12:30:23.184121",
+    "processing_date": "2025-08-12 12:30:23",
+    "source_filename": "batch1-1470.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Harris-Wright",
+        "vendor_address": "1268 Tracy Pine Apt. 044, East Anabury, WV 42372",
+        "vendor_phone": "N/A",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "27278750",
+        "invoice_date": "08/04/2015",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Russell, May and Olson",
+        "customer_address": "PSC 0308, Box 7249, APO AP 53058",
+        "customer_phone": "N/A",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "Nintendo Wii Black Console RVL-001 Bundle 10 games Complete Gamecube Compatible",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "$100,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$220,00"
+        },
+        {
+          "item_number": "2",
+          "description": "Xbox 360 console with games",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "$41,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$180,40"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$364,00",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$36,40",
+        "round_off": "N/A",
+        "total_amount": "$400,40",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  },
+  {
+    "id": "20250812_123326_f666a8fe",
+    "timestamp": "2025-08-12T12:33:26.531035",
+    "processing_date": "2025-08-12 12:33:26",
+    "source_filename": "batch1-1470.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Harris-Wright",
+        "vendor_address": "1268 Tracy Pine Apt. 044, East Anabury, WV 42372",
+        "vendor_phone": "N/A",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "27278750",
+        "invoice_date": "08/04/2015",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Russell, May and Olson",
+        "customer_address": "PSC 0308, Box 7249, APO AP 53058",
+        "customer_phone": "N/A",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "Nintendo Wii Black Console RVL-001 Bundle 10 games Complete Gamecube Compatible",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "100,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "220,00"
+        },
+        {
+          "item_number": "2",
+          "description": "Xbox 360 console with games",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "41,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "180,40"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$ 364,00",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$ 36,40",
+        "round_off": "N/A",
+        "total_amount": "$ 400,40",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  },
+  {
+    "id": "20250812_123454_092040ea",
+    "timestamp": "2025-08-12T12:34:54.686829",
+    "processing_date": "2025-08-12 12:34:54",
+    "source_filename": "batch1-1470.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Harris-Wright",
+        "vendor_address": "1268 Tracy Pine Apt. 044\nEast Anabury, WV 42372",
+        "vendor_phone": "N/A",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "27278750",
+        "invoice_date": "08/04/2015",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Russell, May and Olson",
+        "customer_address": "PSC 0308, Box 7249\nAPO AP 53058",
+        "customer_phone": "N/A",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "Nintendo Wii Black Console\nRVL-001 Bundle 10 games\nComplete Gamecube Compatible",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "$100,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$220,00"
+        },
+        {
+          "item_number": "2",
+          "description": "Xbox 360 console with games",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "$41,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "$180,40"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$364,00",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$36,40",
+        "round_off": "N/A",
+        "total_amount": "$400,40",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  },
+  {
+    "id": "20250812_125901_6fc174fe",
+    "timestamp": "2025-08-12T12:59:01.850821",
+    "processing_date": "2025-08-12 12:59:01",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T12:59:01.848553"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "904-86-4037",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "925-91-8832",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$ 1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$ 102,64",
+          "round_off": "N/A",
+          "total_amount": "$ 1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "904-86-4037",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "925-91-8832",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$ 1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$ 102,64",
+            "round_off": "N/A",
+            "total_amount": "$ 1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmppdvi4l2__page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250812_144828_aee4faba",
+    "timestamp": "2025-08-12T14:48:28.145338",
+    "processing_date": "2025-08-12 14:48:28",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T14:48:28.128588"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "N/A",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "N/A",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$ 1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$ 102,64",
+          "round_off": "N/A",
+          "total_amount": "$ 1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "N/A",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "N/A",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$ 1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$ 102,64",
+            "round_off": "N/A",
+            "total_amount": "$ 1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmpbz0ozer3_page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250812_151354_2d94af70",
+    "timestamp": "2025-08-12T15:13:54.390453",
+    "processing_date": "2025-08-12 15:13:54",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T15:13:54.385940"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "N/A",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "N/A",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$102,64",
+          "round_off": "N/A",
+          "total_amount": "$1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "N/A",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "N/A",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$102,64",
+            "round_off": "N/A",
+            "total_amount": "$1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmpg0nni0de_page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250812_151450_9174bc88",
+    "timestamp": "2025-08-12T15:14:50.184729",
+    "processing_date": "2025-08-12 15:14:50",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T15:14:50.179399"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "904-86-4037",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "925-91-8832",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "$119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "$263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "$157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "$865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$102,64",
+          "round_off": "N/A",
+          "total_amount": "$1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "904-86-4037",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "925-91-8832",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "$119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "$263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "$157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "$865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$102,64",
+            "round_off": "N/A",
+            "total_amount": "$1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmpvkz_cv7g_page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250812_160838_6c8af973",
+    "timestamp": "2025-08-12T16:08:38.289873",
+    "processing_date": "2025-08-12 16:08:38",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T16:08:38.275340"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "N/A",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "N/A",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "$119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "$263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "$157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "$865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$102,64",
+          "round_off": "N/A",
+          "total_amount": "$1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "N/A",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "N/A",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "$119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "$263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "$157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "$865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$102,64",
+            "round_off": "N/A",
+            "total_amount": "$1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmp4z0irtqu_page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250812_164507_6bfc071c",
+    "timestamp": "2025-08-12T16:45:07.542474",
+    "processing_date": "2025-08-12 16:45:07",
+    "source_filename": "batch1-1469.pdf",
+    "extraction_data": {
+      "pdf_info": {
+        "source_pdf": "batch1-1469.pdf",
+        "total_pages": 1,
+        "successful_pages": 1,
+        "failed_pages": 0,
+        "processing_date": "2025-08-12T16:45:07.536966"
+      },
+      "combined_data": {
+        "invoice_header": {
+          "vendor_name": "Wang-Tran",
+          "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+          "vendor_phone": "904-86-4037",
+          "vendor_email": "N/A",
+          "vendor_website": "N/A",
+          "vendor_gst_number": "N/A",
+          "vendor_pan": "N/A",
+          "invoice_number": "64713590",
+          "invoice_date": "03/02/2017",
+          "due_date": "N/A",
+          "purchase_order_number": "N/A",
+          "reference_number": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "customer_details": {
+          "customer_name": "Larson-Hill",
+          "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+          "customer_phone": "N/A",
+          "customer_email": "N/A",
+          "customer_gst_number": "N/A",
+          "customer_pan": "N/A",
+          "billing_address": "N/A",
+          "shipping_address": "N/A",
+          "customer_contact_person": "N/A"
+        },
+        "line_items": [
+          {
+            "item_number": "1",
+            "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+            "hsn_sac_code": "N/A",
+            "quantity": "2,00",
+            "unit": "each",
+            "unit_price": "119,95",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "263,89",
+            "source_page": 1
+          },
+          {
+            "item_number": "2",
+            "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+            "hsn_sac_code": "N/A",
+            "quantity": "5,00",
+            "unit": "each",
+            "unit_price": "157,30",
+            "discount": "N/A",
+            "tax_rate": "10%",
+            "tax_amount": "N/A",
+            "total_price": "865,15",
+            "source_page": 1
+          }
+        ],
+        "financial_summary": {
+          "subtotal": "$1 026,40",
+          "total_discount": "N/A",
+          "taxable_amount": "N/A",
+          "cgst": "N/A",
+          "sgst": "N/A",
+          "igst": "N/A",
+          "cess": "N/A",
+          "other_charges": "N/A",
+          "shipping_charges": "N/A",
+          "total_tax_amount": "$102,64",
+          "round_off": "N/A",
+          "total_amount": "$1 129,04",
+          "amount_in_words": "N/A",
+          "currency": "US Dollars ($)"
+        },
+        "payment_details": {
+          "payment_terms": "N/A",
+          "payment_method": "N/A",
+          "bank_name": "N/A",
+          "account_number": "N/A",
+          "ifsc_code": "N/A",
+          "branch": "N/A",
+          "upi_id": "N/A",
+          "advance_paid": "N/A",
+          "balance_due": "N/A"
+        },
+        "terms_and_conditions": {
+          "payment_terms": "",
+          "delivery_terms": "",
+          "warranty_terms": "",
+          "return_policy": "",
+          "late_payment_charges": "",
+          "jurisdiction": "",
+          "other_conditions": []
+        },
+        "additional_info": {
+          "notes": "N/A",
+          "special_instructions": "N/A",
+          "delivery_date": "N/A",
+          "place_of_supply": "N/A",
+          "reverse_charge": "N/A",
+          "document_type": "N/A",
+          "series": "N/A",
+          "authorised_signatory": "N/A",
+          "stamp_or_seal": "N/A",
+          "qr_code_present": "N/A"
+        }
+      },
+      "page_by_page_results": [
+        {
+          "quality_assessment": {
+            "quality_too_poor": false,
+            "quality_issues": [],
+            "readability_score": "high",
+            "can_extract_data": true,
+            "preprocessing_recommended": false
+          },
+          "invoice_header": {
+            "vendor_name": "Wang-Tran",
+            "vendor_address": "13467 Jeffrey Pines, North Madeline, NM 37184",
+            "vendor_phone": "904-86-4037",
+            "vendor_email": "N/A",
+            "vendor_website": "N/A",
+            "vendor_gst_number": "N/A",
+            "vendor_pan": "N/A",
+            "invoice_number": "64713590",
+            "invoice_date": "03/02/2017",
+            "due_date": "N/A",
+            "purchase_order_number": "N/A",
+            "reference_number": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "customer_details": {
+            "customer_name": "Larson-Hill",
+            "customer_address": "PSC 9881, Box 7606, APO AE 92829",
+            "customer_phone": "N/A",
+            "customer_email": "N/A",
+            "customer_gst_number": "N/A",
+            "customer_pan": "N/A",
+            "billing_address": "N/A",
+            "shipping_address": "N/A",
+            "customer_contact_person": "N/A"
+          },
+          "line_items": [
+            {
+              "item_number": "1",
+              "description": "Fast Dell Optiplex Windows 10 Pro Desktop Computer Dual Core 6GB 160GB DVD WIFI",
+              "hsn_sac_code": "N/A",
+              "quantity": "2,00",
+              "unit": "each",
+              "unit_price": "119,95",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "263,89",
+              "source_page": 1
+            },
+            {
+              "item_number": "2",
+              "description": "Optiplex Desktop Computer PC - Intel Core 2 Duo - 4GB Memory - 160GB Hard",
+              "hsn_sac_code": "N/A",
+              "quantity": "5,00",
+              "unit": "each",
+              "unit_price": "157,30",
+              "discount": "N/A",
+              "tax_rate": "10%",
+              "tax_amount": "N/A",
+              "total_price": "865,15",
+              "source_page": 1
+            }
+          ],
+          "financial_summary": {
+            "subtotal": "$1 026,40",
+            "total_discount": "N/A",
+            "taxable_amount": "N/A",
+            "cgst": "N/A",
+            "sgst": "N/A",
+            "igst": "N/A",
+            "cess": "N/A",
+            "other_charges": "N/A",
+            "shipping_charges": "N/A",
+            "total_tax_amount": "$102,64",
+            "round_off": "N/A",
+            "total_amount": "$1 129,04",
+            "amount_in_words": "N/A",
+            "currency": "US Dollars ($)"
+          },
+          "payment_details": {
+            "payment_terms": "N/A",
+            "payment_method": "N/A",
+            "bank_name": "N/A",
+            "account_number": "N/A",
+            "ifsc_code": "N/A",
+            "branch": "N/A",
+            "upi_id": "N/A",
+            "advance_paid": "N/A",
+            "balance_due": "N/A"
+          },
+          "terms_and_conditions": {
+            "payment_terms": "N/A",
+            "delivery_terms": "N/A",
+            "warranty_terms": "N/A",
+            "return_policy": "N/A",
+            "late_payment_charges": "N/A",
+            "jurisdiction": "N/A",
+            "other_conditions": []
+          },
+          "additional_info": {
+            "notes": "N/A",
+            "special_instructions": "N/A",
+            "delivery_date": "N/A",
+            "place_of_supply": "N/A",
+            "reverse_charge": "N/A",
+            "document_type": "N/A",
+            "series": "N/A",
+            "authorised_signatory": "N/A",
+            "stamp_or_seal": "N/A",
+            "qr_code_present": "N/A"
+          },
+          "detection_metadata": {
+            "tables_detected": true,
+            "handwriting_detected": false,
+            "logo_detected": false,
+            "stamp_detected": false,
+            "signature_detected": false,
+            "barcode_qr_detected": false,
+            "multi_page_document": false,
+            "document_quality": "high",
+            "extraction_confidence": "high",
+            "unclear_fields": []
+          },
+          "page_info": {
+            "page_number": 1,
+            "total_pages": 1,
+            "source_pdf": "batch1-1469.pdf",
+            "page_image": "tmpf1ufc29__page_1.jpg"
+          }
+        }
+      ],
+      "processing_summary": {
+        "total_line_items_found": 2,
+        "pages_with_line_items": 1,
+        "overall_quality": "high"
+      }
+    }
+  },
+  {
+    "id": "20250818_110808_6d250cb7",
+    "timestamp": "2025-08-18T11:08:08.331444",
+    "processing_date": "2025-08-18 11:08:08",
+    "source_filename": "batch1-0479.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Murray-Eaton",
+        "vendor_address": "773 Joseph Plains, West Nicoleville, AZ 46136",
+        "vendor_phone": "N/A",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "69721323",
+        "invoice_date": "05/07/2019",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Cuevas, Reid and Hurst",
+        "customer_address": "98071 Daniel Heights, Careyside, MS 59400",
+        "customer_phone": "N/A",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "Tie Dyeing Fluffy Rugs Anti-Skid Area Rug Dining Room Carpet Floor Bedroom Mat",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "25,48",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "112,11"
+        },
+        {
+          "item_number": "2",
+          "description": "Galaxy Butterfly Area Rugs Children Bedroom Non-Slip Doormat Floor Mat Carpet",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "13,69",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "30,12"
+        },
+        {
+          "item_number": "3",
+          "description": "Colorful Marble Printed Living Room and Bedroom Area Rugs Carpet CNK2413",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "12,49",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "27,48"
+        },
+        {
+          "item_number": "4",
+          "description": "Red Traditional Oriental Medallion 8x10 Area Rug Carpet 2x3 Mat 5x7 Rugs",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "39,98",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "175,91"
+        },
+        {
+          "item_number": "5",
+          "description": "YILONG 2.5'x4' Small Hand Knotted Silk Carpets Antistatic Floor Area Rug 844B",
+          "hsn_sac_code": "N/A",
+          "quantity": "4,00",
+          "unit": "each",
+          "unit_price": "2 000,00",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "8 800,00"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$ 8 314,20",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$ 831,42",
+        "round_off": "N/A",
+        "total_amount": "$ 9 145,62",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  },
+  {
+    "id": "20250818_112100_b83e5ea2",
+    "timestamp": "2025-08-18T11:21:00.821717",
+    "processing_date": "2025-08-18 11:21:00",
+    "source_filename": "batch1-0474.jpg",
+    "extraction_data": {
+      "quality_assessment": {
+        "quality_too_poor": false,
+        "quality_issues": [],
+        "readability_score": "high",
+        "can_extract_data": true,
+        "preprocessing_recommended": false
+      },
+      "invoice_header": {
+        "vendor_name": "Thomas, White and Smith",
+        "vendor_address": "8485 Jack Key Apt. 255, New Miguel, HI 95698",
+        "vendor_phone": "N/A",
+        "vendor_email": "N/A",
+        "vendor_website": "N/A",
+        "vendor_gst_number": "N/A",
+        "vendor_pan": "N/A",
+        "invoice_number": "30208398",
+        "invoice_date": "05/24/2019",
+        "due_date": "N/A",
+        "purchase_order_number": "N/A",
+        "reference_number": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "customer_details": {
+        "customer_name": "Green, Scott and Miller",
+        "customer_address": "101 Ford Stravenue, Scotttown, DE 22621",
+        "customer_phone": "N/A",
+        "customer_email": "N/A",
+        "customer_gst_number": "N/A",
+        "customer_pan": "N/A",
+        "billing_address": "N/A",
+        "shipping_address": "N/A",
+        "customer_contact_person": "N/A"
+      },
+      "line_items": [
+        {
+          "item_number": "1",
+          "description": "3D Stones Florals Corridor Carpet Doorway Mat Soft Antislip Living Room Area Rug",
+          "hsn_sac_code": "N/A",
+          "quantity": "2,00",
+          "unit": "each",
+          "unit_price": "15,19",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "33,42"
+        },
+        {
+          "item_number": "2",
+          "description": "Round Rug Carpet For Living Room Decor Faux Fur Rugs Kids Room Long Plush Rugs",
+          "hsn_sac_code": "N/A",
+          "quantity": "1,00",
+          "unit": "each",
+          "unit_price": "9,87",
+          "discount": "N/A",
+          "tax_rate": "10%",
+          "tax_amount": "N/A",
+          "total_price": "10,86"
+        }
+      ],
+      "financial_summary": {
+        "subtotal": "$40,25",
+        "total_discount": "N/A",
+        "taxable_amount": "N/A",
+        "cgst": "N/A",
+        "sgst": "N/A",
+        "igst": "N/A",
+        "cess": "N/A",
+        "other_charges": "N/A",
+        "shipping_charges": "N/A",
+        "total_tax_amount": "$4,03",
+        "round_off": "N/A",
+        "total_amount": "$44,28",
+        "amount_in_words": "N/A",
+        "currency": "US Dollars ($)"
+      },
+      "payment_details": {
+        "payment_terms": "N/A",
+        "payment_method": "N/A",
+        "bank_name": "N/A",
+        "account_number": "N/A",
+        "ifsc_code": "N/A",
+        "branch": "N/A",
+        "upi_id": "N/A",
+        "advance_paid": "N/A",
+        "balance_due": "N/A"
+      },
+      "terms_and_conditions": {
+        "payment_terms": "N/A",
+        "delivery_terms": "N/A",
+        "warranty_terms": "N/A",
+        "return_policy": "N/A",
+        "late_payment_charges": "N/A",
+        "jurisdiction": "N/A",
+        "other_conditions": []
+      },
+      "additional_info": {
+        "notes": "N/A",
+        "special_instructions": "N/A",
+        "delivery_date": "N/A",
+        "place_of_supply": "N/A",
+        "reverse_charge": "N/A",
+        "document_type": "N/A",
+        "series": "N/A",
+        "authorised_signatory": "N/A",
+        "stamp_or_seal": "N/A",
+        "qr_code_present": "N/A"
+      },
+      "detection_metadata": {
+        "tables_detected": true,
+        "handwriting_detected": false,
+        "logo_detected": false,
+        "stamp_detected": false,
+        "signature_detected": false,
+        "barcode_qr_detected": false,
+        "multi_page_document": false,
+        "document_quality": "high",
+        "extraction_confidence": "high",
+        "unclear_fields": []
+      }
+    }
+  }
+]

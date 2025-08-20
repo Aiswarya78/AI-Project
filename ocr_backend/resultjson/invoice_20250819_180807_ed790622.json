@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-19T18:08:07.213263",
+    "processing_date": "2025-08-19 18:08:07",
+    "unique_id": "ed790622",
+    "filename": "invoice.jpg",
+    "file_id": "20250819_180807_ed790622"
+  },
+  "extraction_data": {
+    "quality_assessment": {
+      "quality_too_poor": false,
+      "quality_issues": [],
+      "readability_score": "high",
+      "can_extract_data": true,
+      "preprocessing_recommended": false
+    },
+    "invoice_header": {
+      "vendor_name": "Wang-Tran",
+      "vendor_address": "13467 Jeffrey Pines, North Madeline",
+      "vendor_phone": "N/A",
+      "vendor_email": "N/A",
+      "vendor_website": "N/A",
+      "vendor_gst_number": "N/A",
+      "vendor_pan": "N/A",
+      "invoice_number": "64713591",
+      "invoice_date": "19/08/2025",
+      "due_date": "N/A",
+      "purchase_order_number": "N/A",
+      "reference_number": "N/A",
+      "currency": "US Dollars ($)"
+    },
+    "customer_details": {
+      "customer_name": "N/A",
+      "customer_address": "N/A",
+      "customer_phone": "N/A",
+      "customer_email": "N/A",
+      "customer_gst_number": "N/A",
+      "customer_pan": "N/A",
+      "billing_address": "N/A",
+      "shipping_address": "N/A",
+      "customer_contact_person": "N/A"
+    },
+    "line_items": [
+      {
+        "item_number": "1",
+        "description": "Blue Ball Pen",
+        "hsn_sac_code": "N/A",
+        "quantity": "10",
+        "unit": "each",
+        "unit_price": "2.00",
+        "discount": "N/A",
+        "tax_rate": "10%",
+        "tax_amount": "2.00",
+        "total_price": "22.00"
+      }
+    ],
+    "financial_summary": {
+      "subtotal": "$20.00",
+      "total_discount": "N/A",
+      "taxable_amount": "N/A",
+      "cgst": "N/A",
+      "sgst": "N/A",
+      "igst": "N/A",
+      "cess": "N/A",
+      "other_charges": "N/A",
+      "shipping_charges": "N/A",
+      "total_tax_amount": "$2.00",
+      "round_off": "N/A",
+      "total_amount": "$22.00",
+      "amount_in_words": "N/A",
+      "currency": "US Dollars ($)"
+    },
+    "payment_details": {
+      "payment_terms": "N/A",
+      "payment_method": "N/A",
+      "bank_name": "N/A",
+      "account_number": "N/A",
+      "ifsc_code": "N/A",
+      "branch": "N/A",
+      "upi_id": "N/A",
+      "advance_paid": "N/A",
+      "balance_due": "N/A"
+    },
+    "terms_and_conditions": {
+      "payment_terms": "N/A",
+      "delivery_terms": "N/A",
+      "warranty_terms": "N/A",
+      "return_policy": "N/A",
+      "late_payment_charges": "N/A",
+      "jurisdiction": "N/A",
+      "other_conditions": []
+    },
+    "additional_info": {
+      "notes": "N/A",
+      "special_instructions": "N/A",
+      "delivery_date": "N/A",
+      "place_of_supply": "N/A",
+      "reverse_charge": "N/A",
+      "document_type": "N/A",
+      "series": "N/A",
+      "authorised_signatory": "N/A",
+      "stamp_or_seal": "N/A",
+      "qr_code_present": "N/A"
+    },
+    "detection_metadata": {
+      "tables_detected": true,
+      "handwriting_detected": false,
+      "logo_detected": false,
+      "stamp_detected": false,
+      "signature_detected": false,
+      "barcode_qr_detected": false,
+      "multi_page_document": false,
+      "document_quality": "high",
+      "extraction_confidence": "high",
+      "unclear_fields": []
+    }
+  }
+}

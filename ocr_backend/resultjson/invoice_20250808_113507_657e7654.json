@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-08T11:35:07.730090",
+    "processing_date": "2025-08-08 11:35:07",
+    "unique_id": "657e7654",
+    "filename": "Pan Card - R Nandakishore.pdf",
+    "file_id": "20250808_113507_657e7654"
+  },
+  "extraction_data": {
+    "pdf_info": {
+      "source_pdf": "Pan Card - R Nandakishore.pdf",
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "processing_date": "2025-08-08T11:35:07.723408"
+    },
+    "combined_data": {
+      "invoice_header": {},
+      "customer_details": {},
+      "line_items": [],
+      "financial_summary": {},
+      "payment_details": {},
+      "terms_and_conditions": {
+        "payment_terms": "",
+        "delivery_terms": "",
+        "warranty_terms": "",
+        "return_policy": "",
+        "late_payment_charges": "",
+        "jurisdiction": "",
+        "other_conditions": []
+      },
+      "additional_info": {}
+    },
+    "page_by_page_results": [
+      {
+        "page_info": {
+          "page_number": 1,
+          "total_pages": 1,
+          "source_pdf": "Pan Card - R Nandakishore.pdf",
+          "processing_failed": true
+        },
+        "error": "Page processing failed"
+      }
+    ],
+    "processing_summary": {
+      "total_line_items_found": 0,
+      "pages_with_line_items": 0,
+      "overall_quality": "low"
+    }
+  }
+}

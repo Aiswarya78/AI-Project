@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-19T16:52:13.447721",
+    "processing_date": "2025-08-19 16:52:13",
+    "unique_id": "9ecd8152",
+    "filename": "invoice.png",
+    "file_id": "20250819_165213_9ecd8152"
+  },
+  "extraction_data": {
+    "quality_assessment": {
+      "quality_too_poor": false,
+      "quality_issues": [],
+      "readability_score": "high",
+      "can_extract_data": true,
+      "preprocessing_recommended": false
+    },
+    "invoice_header": {
+      "vendor_name": "Your Company Name",
+      "vendor_address": "123 Street Address, City, State, Zip/Postal Code",
+      "vendor_phone": "Phone Number",
+      "vendor_email": "Email",
+      "vendor_website": "",
+      "vendor_gst_number": "",
+      "vendor_pan": "",
+      "invoice_number": "",
+      "invoice_date": "",
+      "due_date": "",
+      "purchase_order_number": "",
+      "reference_number": "",
+      "currency": "US Dollars ($)"
+    },
+    "customer_details": {
+      "customer_name": "Client Company Name",
+      "customer_address": "Address",
+      "customer_phone": "Phone",
+      "customer_email": "",
+      "customer_gst_number": "",
+      "customer_pan": "",
+      "billing_address": "",
+      "shipping_address": "",
+      "customer_contact_person": "Contact Name"
+    },
+    "line_items": [
+      {
+        "item_number": "1",
+        "description": "Widget 1",
+        "hsn_sac_code": "",
+        "quantity": "2",
+        "unit": "",
+        "unit_price": "$5.00",
+        "discount": "",
+        "tax_rate": "",
+        "tax_amount": "",
+        "total_price": "$10.00"
+      },
+      {
+        "item_number": "2",
+        "description": "Gadget 2",
+        "hsn_sac_code": "",
+        "quantity": "3",
+        "unit": "",
+        "unit_price": "$7.00",
+        "discount": "",
+        "tax_rate": "",
+        "tax_amount": "",
+        "total_price": "$21.00"
+      }
+    ],
+    "financial_summary": {
+      "subtotal": "$31.00",
+      "total_discount": "",
+      "taxable_amount": "",
+      "cgst": "",
+      "sgst": "",
+      "igst": "",
+      "cess": "",
+      "other_charges": "",
+      "shipping_charges": "",
+      "total_tax_amount": "$2.48",
+      "round_off": "",
+      "total_amount": "$33.48",
+      "amount_in_words": "",
+      "currency": "US Dollars ($)"
+    },
+    "payment_details": {
+      "payment_terms": "Due on receipt, due in 7 days",
+      "payment_method": "",
+      "bank_name": "",
+      "account_number": "",
+      "ifsc_code": "",
+      "branch": "",
+      "upi_id": "",
+      "advance_paid": "",
+      "balance_due": "$33.48"
+    },
+    "terms_and_conditions": {
+      "payment_terms": "",
+      "delivery_terms": "",
+      "warranty_terms": "",
+      "return_policy": "",
+      "late_payment_charges": "",
+      "jurisdiction": "",
+      "other_conditions": []
+    },
+    "additional_info": {
+      "notes": "Remarks / Payment Instructions:",
+      "special_instructions": "",
+      "delivery_date": "",
+      "place_of_supply": "",
+      "reverse_charge": "",
+      "document_type": "INVOICE",
+      "series": "",
+      "authorised_signatory": "",
+      "stamp_or_seal": "",
+      "qr_code_present": ""
+    },
+    "detection_metadata": {
+      "tables_detected": true,
+      "handwriting_detected": false,
+      "logo_detected": false,
+      "stamp_detected": false,
+      "signature_detected": false,
+      "barcode_qr_detected": false,
+      "multi_page_document": false,
+      "document_quality": "high",
+      "extraction_confidence": "high",
+      "unclear_fields": []
+    }
+  }
+}
