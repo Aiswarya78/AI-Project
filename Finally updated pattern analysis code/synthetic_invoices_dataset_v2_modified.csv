@@ -1,0 +1,37 @@
+vendor_name,vendor_address,invoice_number,invoice_date,currency,customer_name,customer_address,description_of_item,quantity,unit_price,total_price,total_amount
+Pizza Hut,"100 Elm St, Chicago, IL 60601",75130363,2025-02-22,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Breakfast with client,1,$17.43,$14.92,14.6
+Pizza Hut,"100 Elm St, Chicago, IL 60601",75130363,2025-03-08,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business lunch with client,1,$9.26,$6.76,11.17
+Subway,"21 King St, New York, NY 10001",75130363,2025-01-28,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business snacks with client,1,$25.01,$15.04,18.38
+Dominos,"77 Queen Rd, Houston, TX 77001",75130363,2025-05-06,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Dinner with client,1,$26.18,$19.75,15.77
+Pizza Hut,"100 Elm St, Chicago, IL 60601",75190049,2025-03-08,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Breakfast with client,1,$13.89,$17.42,21.29
+Subway,"21 King St, New York, NY 10001",75190049,2025-05-06,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business lunch with client,1,$6.27,$11.12,11.01
+Dominos,"77 Queen Rd, Houston, TX 77001",75190049,2025-05-22,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business snacks with client,1,$15.97,$20.78,22.28
+Subway,"21 King St, New York, NY 10001",75190049,2025-01-17,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Dinner with client,1,$13.97,$13.3,17.1
+Subway,"21 King St, New York, NY 10001",83483104,2025-03-14,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Breakfast with client,1,$18.64,$12.37,11.84
+Pizza Hut,"100 Elm St, Chicago, IL 60601",83483104,2025-05-12,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business lunch with client,1,$5.45,$6.27,6.96
+Olive Garden,"500 Market St, San Francisco, CA 94105",83483104,2025-05-21,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business snacks with client,1,$27.73,$23.91,32.94
+Pizza Hut,"100 Elm St, Chicago, IL 60601",83483104,2025-03-12,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Dinner with client,1,$19.28,$19.42,17.73
+Olive Garden,"500 Market St, San Francisco, CA 94105",76760127,2025-04-08,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Breakfast with client,1,$17.51,$14.59,15.4
+Pizza Hut,"100 Elm St, Chicago, IL 60601",76760127,2025-03-06,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business lunch with client,1,$7.18,$6.18,7.57
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",76760127,2025-04-19,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business snacks with client,1,$14.83,$27.68,26.45
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",76760127,2025-04-10,USD,Jones LLC,"0875 Charles Village Suite 140 Reidfort, NC 33037",Business Dinner with client,1,$25.74,$17.5,26.26
+Dominos,"77 Queen Rd, Houston, TX 77001",74284264,2025-03-11,USD,Anderson-Lindsey,"72498 Joseph Mill Apt. 418 West Paul, AZ 08086",Night stay at Midtown Hotel,2,$135.84,$300.99,390.19
+Dominos,"77 Queen Rd, Houston, TX 77001",92671130,2025-03-01,USD,Anderson-Lindsey,"72498 Joseph Mill Apt. 418 West Paul, AZ 08086",Night stay at Midtown Hotel,2,$208.87,$238.49,320.82
+Dominos,"77 Queen Rd, Houston, TX 77001",86904676,2025-02-15,USD,Anderson-Lindsey,"72498 Joseph Mill Apt. 418 West Paul, AZ 08086",Night stay at Midtown Hotel,2,$110.47,$278.34,405.15
+Olive Garden,"500 Market St, San Francisco, CA 94105",74240673,2025-03-31,USD,Anderson-Lindsey,"72498 Joseph Mill Apt. 418 West Paul, AZ 08086",Night stay at Midtown Hotel,2,$183.04,$294.13,334.36
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",92651249,2025-03-27,USD,Williams-Jimenez,"07227 Kristen Locks Suite 358 Julieview, KS 58803",Printer ink cartridges,3,$24.94,$74.06,77.92
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",85206843,2025-02-21,USD,Williams-Jimenez,"07227 Kristen Locks Suite 358 Julieview, KS 58803",Printer ink cartridges,3,$36.6,$56.25,117.33
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",84265867,2025-06-22,USD,Williams-Jimenez,"07227 Kristen Locks Suite 358 Julieview, KS 58803",Printer ink cartridges,3,$24.0,$84.73,57.83
+Dominos,"77 Queen Rd, Houston, TX 77001",93917079,2025-05-16,USD,Williams-Jimenez,"07227 Kristen Locks Suite 358 Julieview, KS 58803",Printer ink cartridges,3,$33.61,$88.09,92.32
+Subway,"21 King St, New York, NY 10001",88817111,2025-05-05,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Thinkpad I7 13th gen,2,$17.2,$45.93,49.36
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",88817111,2025-06-19,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Mouse,2,$2.94,$3.93,5.51
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",80984174,2025-02-25,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Thinkpad I7 13th gen,2,$22.68,$59.07,45.13
+Pizza Hut,"100 Elm St, Chicago, IL 60601",80984174,2025-05-24,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Mouse,2,$3.2,$3.96,5.66
+Pizza Hut,"100 Elm St, Chicago, IL 60601",78519268,2025-06-23,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Thinkpad I7 13th gen,2,$18.72,$34.29,41.92
+Pizza Hut,"100 Elm St, Chicago, IL 60601",78519268,2025-05-29,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Mouse,2,$2.62,$5.53,3.78
+Pizza Hut,"100 Elm St, Chicago, IL 60601",72563456,2025-06-24,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Thinkpad I7 13th gen,2,$19.23,$40.1,43.52
+Dominos,"77 Queen Rd, Houston, TX 77001",72563456,2025-06-04,USD,"Williams, Schneider and Gomez","588 Morales Rapids East Katherineton, MT 53545",Lenovo Mouse,2,$3.68,$7.01,7.73
+Olive Garden,"500 Market St, San Francisco, CA 94105",76800264,2025-04-05,USD,Todd-Barnes,USNV Smith FPO AE 18444,London to Manchester train ticket,1,$14.35,$11.21,16.99
+Pizza Hut,"100 Elm St, Chicago, IL 60601",92793318,2025-06-02,USD,Todd-Barnes,USNV Smith FPO AE 18444,London to Manchester train ticket,1,$14.72,$20.09,20.71
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",77390584,2025-01-11,USD,Todd-Barnes,USNV Smith FPO AE 18444,London to Manchester train ticket,1,$20.48,$11.89,21.32
+Starbucks,"9 Lakeview Ave, Seattle, WA 98101",82413618,2025-05-04,USD,Todd-Barnes,USNV Smith FPO AE 18444,London to Manchester train ticket,1,$9.49,$10.25,12.68
